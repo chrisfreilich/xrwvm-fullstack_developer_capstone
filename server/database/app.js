@@ -18,6 +18,7 @@ const Reviews = require('./review');
 
 const Dealerships = require('./dealership');
 
+
 try {
   Reviews.deleteMany({}).then(()=>{
     Reviews.insertMany(reviews_data['reviews']);
