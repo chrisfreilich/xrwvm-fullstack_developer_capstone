@@ -45,7 +45,7 @@ def initiate():
           "car_make": car_make_instances[4]},
       {"name": "Camry", "type": "Sedan", "year": 2023,
           "car_make": car_make_instances[4]},
-      {"name": "Kluger", "type": "SUV", "year": 2023
+      {"name": "Kluger", "type": "SUV", "year": 2023,
           "car_make": car_make_instances[4]},
     ]
 
